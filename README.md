@@ -8,6 +8,7 @@ Many of my projects originate from either the need for tools to do something whi
 
 | Project | Description | Tech |
 | :-: | --- | --- |
+| [chishoals-layouts](https://github.com/EpicYoshiMaster/chishoals-layouts) | [NodeCG](https://www.nodecg.dev/) Layouts which I designed and developed, used by the Chi-Shoals Splatoon event hosted by [SquidWest](https://twitter.com/SquidWest). | NodeCG, HTML, CSS, Typescript, React |
 | [Pokémon Dungeoneer](https://github.com/EpicYoshiMaster/pokemon-dungeoneer) | Generation and analysis tool for Pokémon Mystery Dungeon: Explorers of Sky's dungeons, try it [here](https://pokemon-dungeoneer.vercel.app/)! | HTML, CSS, Typescript, Next.js |
 | [dungeon-mystery](https://github.com/EpicYoshiMaster/dungeon-mystery) | Typescript implementation of Pokémon Mystery Dungeon: Explorers of Sky's dungeon algorithm, used by Pokémon Dungeoneer. | Typescript |
 | [Rhythm Cowboy](https://github.com/EpicYoshiMaster/Rhythm-Cowboy) | Bite-sized call and response rhythm game featuring cowboys, made in Unity for a game jam. Play it [here](https://epicyoshimaster.itch.io/rhythm-cowboy)! | Unity, C# |
