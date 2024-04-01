@@ -8,6 +8,7 @@ Many of my projects originate from either the need for tools to do something whi
 
 | Project | Description | Tech |
 | :-: | --- | --- |
+| [splat-title-quiz](https://github.com/EpicYoshiMaster/splat-title-quiz) | Website to test your knowledge of the ridiculous number of titles in Splatoon 3 | HTML, CSS, Typescript, React |
 | [chishoals-layouts](https://github.com/EpicYoshiMaster/chishoals-layouts) | [NodeCG](https://www.nodecg.dev/) Layouts which I designed and developed, used by the Chi-Shoals Splatoon event hosted by [SquidWest](https://twitter.com/SquidWest). | NodeCG, HTML, CSS, Typescript, React |
 | [Pokémon Dungeoneer](https://github.com/EpicYoshiMaster/pokemon-dungeoneer) | Generation and analysis tool for Pokémon Mystery Dungeon: Explorers of Sky's dungeons, try it [here](https://pokemon-dungeoneer.vercel.app/)! | HTML, CSS, Typescript, Next.js |
 | [dungeon-mystery](https://github.com/EpicYoshiMaster/dungeon-mystery) | Typescript implementation of Pokémon Mystery Dungeon: Explorers of Sky's dungeon algorithm, used by Pokémon Dungeoneer. | Typescript |
