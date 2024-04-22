@@ -1,6 +1,6 @@
 Hi I'm **EpicYoshiMaster** (she/her)!
 
-I'm a generalist programmer who like working on anything and everything software, web, and game dev.
+I'm a generalist programmer who loves working on anything and everything software, web, and game dev.
 
 Many of my projects originate from either the need for tools to do something while speedrunning, or having a cool idea and wanting to make a mod for a game.
 
