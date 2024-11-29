@@ -7,6 +7,7 @@ Recently, my focus has been in developing Broadcast Graphics through [NodeCG](ht
 ### Broadcast Graphics Work
 | Project | Description | Tech |
 | :-: | --- | --- |
+| [splat-weapon-tracker](https://github.com/EpicYoshiMaster/splat-weapon-tracker) | [NodeCG](https://www.nodecg.dev/) bundle I made to track and display weapons in Splatoon 3. | NodeCG, HTML, CSS, Typescript, React, GSAP |
 | [squidwest-layout-controls](https://github.com/EpicYoshiMaster/squidwest-layout-controls) | [NodeCG](https://www.nodecg.dev/) dashboards and extensions bundle for SquidWest events, maintained and improved since February 2024. Used for several events hosted by [SquidWest](https://twitter.com/SquidWest). | NodeCG, HTML, CSS, Typescript, React |
 | [twinsquiddies-layouts](https://github.com/EpicYoshiMaster/twinsquiddies-layouts) | [NodeCG](https://www.nodecg.dev/) graphics bundle which I designed and developed, used for the Splatoon local [Twin Squiddies](https://bsky.app/profile/twinsquiddies.bsky.social). | NodeCG, HTML, CSS, Typescript, React |
 | [chishoals-layouts](https://github.com/EpicYoshiMaster/chishoals-layouts) | [NodeCG](https://www.nodecg.dev/) graphics bundle which I designed and developed, used for the Splatoon local Chi-Shoals. | NodeCG, HTML, CSS, Typescript, React |
