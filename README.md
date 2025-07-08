@@ -18,7 +18,7 @@ Recently, my focus has been in developing Broadcast Graphics through [NodeCG](ht
 | [dungeon-mystery](https://github.com/EpicYoshiMaster/dungeon-mystery) | Typescript implementation of Pokémon Mystery Dungeon: Explorers of Sky's dungeon algorithm, used by Pokémon Dungeoneer. | Typescript |
 | [Pokémon Dungeoneer](https://github.com/EpicYoshiMaster/pokemon-dungeoneer) | Generation and analysis tool for Pokémon Mystery Dungeon: Explorers of Sky's dungeons, try it [here](https://pokemon-dungeoneer.vercel.app/)! | HTML, CSS, Typescript, React, Next.js |
 | [splat-title-quiz](https://github.com/EpicYoshiMaster/splat-title-quiz) | Website to test your knowledge of the ridiculous number of titles in Splatoon 3. Try it [here](https://epicyoshimaster.github.io/splat-title-quiz/)! | HTML, CSS, Typescript, React |
-| [side-order-palette-planner](https://github.com/EpicYoshiMaster/side-order-palette-planner) | Work in progress website for making, sharing, and playing Side Order palettes. | HTML, CSS, Typescript, React |
+| [side-order-palette-planner](https://github.com/EpicYoshiMaster/side-order-palette-planner) | Website for making, playing, and sharing Side Order palettes. Try it [here](https://epicyoshimaster.github.io/side-order-palette-planner/)! | HTML, CSS, Typescript, React |
 
 ### Games & Modding
 | Project | Description | Tech |
